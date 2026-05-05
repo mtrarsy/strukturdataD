@@ -1,5 +1,5 @@
 import streamlit as st
-import time
+import time 
 
 class Node:
     def __init__(self, color, duration):
